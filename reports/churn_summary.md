@@ -1,4 +1,4 @@
-# 📊 Customer Churn Automated Report
+# Customer Churn Automated Report
 
 **Total Customers Analyzed:** 7043
 
@@ -6,12 +6,12 @@
 
 **Highest Risk Segment:** Month-to-month
 
-## 🔑 Key Churn Drivers
+## Key Churn Drivers
 - MonthlyCharges
 - tenure
 - Contract
 
-## 💡 Recommended Actions
-- Offer incentives to move customers to long-term contracts
-- Target high monthly charge customers with loyalty benefits
+## Recommended Actions
+- Encourage customers to shift to long-term contracts
+- Offer loyalty benefits to high monthly charge customers
 - Proactively engage customers with low tenure
